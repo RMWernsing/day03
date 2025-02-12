@@ -1,0 +1,24 @@
+.bg-color-grey {
+  background-color: rgb(31, 36, 36);
+  color: white;
+}
+
+.red-bg-img {
+  background-image: url(https://images.unsplash.com/photo-1589738865300-b1c0d1c9d242?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+
+.pine-needle-bg {
+  background-image: url(https://media.istockphoto.com/id/2170908910/photo/small-pine-cones-on-a-branch-a-pine-branch-from-a-cone-in-the-forest-background-place-for.jpg?s=2048x2048&w=is&k=20&c=9JKZ_rUbE3Uu_tfVwzjwrrh-mXAn2ss0cmFCcGdW7dg=);
+}
+
+.reindeer-bg {
+  background-image: url(https://images.unsplash.com/photo-1615410106225-98a345c60fc7?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+
+.yellow-bg {
+  background-color: url(https://images.unsplash.com/photo-1602108987428-4768d7c7ecbe?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+
+.logo-padding {
+  padding-left: 19rem;
+}
